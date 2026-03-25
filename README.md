@@ -73,3 +73,6 @@ This project allowed me to transition from being a passive consumer of digital t
 
 ---
 *Developed as part of the CSE0001 Digital Literacy Course.*
+Sarthak Jindal
+25BCE10189
+DIGITAL LITERACY Project CSE0001 (C21)
