@@ -63,7 +63,7 @@ Researched the **"Scan to Receive" UPI Scam**. Produced a detailed case study an
 
 ### IMPORTANT LINKS :
 * **LinkedIn:** www.linkedin.com/in/sarthakjindal1
-* **Githun:** https://github.com/SARTHAKJINDAL1
+* **Github:** https://github.com/SARTHAKJINDAL1
 * **Kaggle:** https://www.kaggle.com/sarthakjindal25
 * **Google Form:** https://docs.google.com/forms/d/e/1FAIpQLSfW8hsSxylkxg6lkcj5ooNptM8UBd8QLjhhSTcfGmlwtbmZHA/viewform?usp=publish-editor
 ---
